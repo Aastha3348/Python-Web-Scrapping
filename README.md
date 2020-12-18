@@ -1,5 +1,7 @@
 # Python-Web-Scrapping
 Web Scrapping to check how many images are broken on a website. This python project is done in Jupyter Notebook open source software.
+The Website that I've used here is https://www.sastasundar.com/ .
+You can copy the link to your Website and replace it in the code.
 
 ## What is Web Scrapping?
   - Web scraping is a term used to describe the use of a program or algorithm to extract and process large amounts of data from the web.
